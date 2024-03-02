@@ -1,1 +1,1 @@
-# Tea-tesnet
+# Tea-tetsnet
